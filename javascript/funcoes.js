@@ -1,21 +1,21 @@
 function mudaPaginaTrab1(){
-    window.location.href = "1opcao.html";
+    window.location.href = "html/1opcao.html";
 }
 
 function mudaPaginaTrab2(){
-    window.location.href = "2opcao.html";
+    window.location.href = "html/2opcao.html";
 }
 
 function mudaPaginaTrab3() {
-    window.location.href = "3opcao.html";
+    window.location.href = "html/3opcao.html";
 }
 
 function mudaPaginaTrab4(){    
-    window.location.href = "4opcao.html";
+    window.location.href = "html/4opcao.html";
 }
 
 function mudaPaginaTrab5(){    
-    window.location.href = "5opcao.html";
+    window.location.href = "html/5opcao.html";
 }
 
 function voltaPagina1(){
